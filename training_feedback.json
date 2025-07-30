@@ -1,0 +1,62 @@
+[
+  {
+    "feedback_id": "fb_1753793425",
+    "analysis_id": "38",
+    "original_prediction": "Fake",
+    "original_confidence": 55.0,
+    "user_correction": "Fake",
+    "user_confidence": 1.0,
+    "reasoning": "real",
+    "user_id": "45136834",
+    "timestamp": "2025-07-29T12:50:25.982349",
+    "image_path": "uploads/1753793404_front_787583.jpg",
+    "ocr_text": "ListrtA - ey\nVCOTIRINRS.1200\no\nil g\n\np )\n\n8 o :\n -w . Q,, A w:i\nRABRRNIULGFXuadokAe LLTUREY\n\nX SATAVITA\ni BFoRELTLINYEvElU.TEEn-K21\ni BROYLTEBEEED,BHLEA-FR.HFOFHLICEET.\n\nl - \u2122\n\nx AILSIVRLTY 60\n\nCOMTEYOHPE30)BETS.\n\nWos.AcascdiDyeonnic BLoy0D29noBlsvLAN0-\n(Eoasossw.BiuxNazoosatMikwes",
+    "ai_features": "{\"image_quality\": {\"score\": \"Low contrast\", \"brightness\": 0.6661678552627563, \"contrast\": 0.2063879668712616}, \"color_distribution\": {\"red_intensity\": 0, \"green_intensity\": 0, \"blue_intensity\": 0, \"color_balance\": \"Unknown\"}, \"edge_sharpness\": {\"score\": \"Unknown\", \"edge_strength\": 0}, \"text_regions\": {\"detected_regions\": 0, \"text_likelihood\": \"Unknown\"}, \"quality_indicators\": {\"print_quality\": 1.0, \"edge_sharpness\": 1.0, \"color_consistency\": 0.39482682943344116, \"text_clarity\": 1.0, \"composition\": 1.0}, \"authenticity_factors\": {\"print_quality\": 1.0, \"edge_sharpness\": 1.0, \"color_consistency\": 0.39482682943344116, \"text_clarity\": 1.0, \"composition\": 1.0}, \"model_type\": \"fallback\"}",
+    "status": "pending_review"
+  },
+  {
+    "feedback_id": "fb_1753793472",
+    "analysis_id": "39",
+    "original_prediction": "Fake",
+    "original_confidence": 51.15434095044256,
+    "user_correction": "Fake",
+    "user_confidence": 1.0,
+    "reasoning": "real",
+    "user_id": "45136834",
+    "timestamp": "2025-07-29T12:51:12.578445",
+    "image_path": "uploads/1753793456_front_787588.jpg",
+    "ocr_text": "/ . e/ 7\nSsEHq- w/0E\n- ,.---.g e\n,\nX ESIED\nBEOUEEDSI1RRTy22TS.\nE ESHhTF 10\na 5)(2 -wn /.-.. Q.\nO B8sv4eBodoeWeKd\n(HETTYoanvoes BhsvseBaxv-redeedo,",
+    "ai_features": "{\"image_quality\": {\"score\": \"Low contrast\", \"brightness\": 0.5787238478660583, \"contrast\": 0.2937844395637512}, \"color_distribution\": {\"red_intensity\": 0, \"green_intensity\": 0, \"blue_intensity\": 0, \"color_balance\": \"Unknown\"}, \"edge_sharpness\": {\"score\": \"Unknown\", \"edge_strength\": 0}, \"text_regions\": {\"detected_regions\": 0, \"text_likelihood\": \"Unknown\"}, \"quality_indicators\": {\"print_quality\": 1.0, \"edge_sharpness\": 0.742040318162966, \"color_consistency\": 0.3801666498184204, \"text_clarity\": 1.0, \"composition\": 1.0}, \"authenticity_factors\": {\"print_quality\": 1.0, \"edge_sharpness\": 0.742040318162966, \"color_consistency\": 0.3801666498184204, \"text_clarity\": 1.0, \"composition\": 1.0}, \"model_type\": \"fallback\"}",
+    "status": "pending_review"
+  },
+  {
+    "feedback_id": "fb_1753863410",
+    "analysis_id": "40",
+    "original_prediction": "Fake",
+    "original_confidence": 55.0,
+    "user_correction": "Fake",
+    "user_confidence": 100.0,
+    "reasoning": null,
+    "user_id": "45136834",
+    "timestamp": "2025-07-30T08:16:50.218160",
+    "image_path": "uploads/1753863368_front_788042.jpg",
+    "ocr_text": "e/ - JanyN\n, I ,b7y7 DU)O 06 i\nS A\nmdhio\u00ae5Dih7, .\n,:-5xfcvtyh5owb:) .cw.x--jq(.zo,l.:na. 1\nOKKK)5IrTIR 150\ng e P Y  -..:: 3\nIEEX-TOl-5 vh:r  u:q",
+    "ai_features": "{\"image_quality\": {\"score\": \"Low contrast\", \"brightness\": 0.6439865231513977, \"contrast\": 0.20969144999980927}, \"color_distribution\": {\"red_intensity\": 0, \"green_intensity\": 0, \"blue_intensity\": 0, \"color_balance\": \"Unknown\"}, \"edge_sharpness\": {\"score\": \"Unknown\", \"edge_strength\": 0}, \"text_regions\": {\"detected_regions\": 0, \"text_likelihood\": \"Unknown\"}, \"quality_indicators\": {\"print_quality\": 1.0, \"edge_sharpness\": 1.0, \"color_consistency\": 0.4068794250488281, \"text_clarity\": 1.0, \"composition\": 1.0}, \"authenticity_factors\": {\"print_quality\": 1.0, \"edge_sharpness\": 1.0, \"color_consistency\": 0.4068794250488281, \"text_clarity\": 1.0, \"composition\": 1.0}, \"model_type\": \"fallback\"}",
+    "status": "pending_review"
+  },
+  {
+    "feedback_id": "fb_1753880287",
+    "analysis_id": "42",
+    "original_prediction": "Fake",
+    "original_confidence": 54.46911485656355,
+    "user_correction": "Fake",
+    "user_confidence": 25.0,
+    "reasoning": null,
+    "user_id": null,
+    "timestamp": "2025-07-30T12:58:07.988901",
+    "image_path": "uploads/1753880265_front_Snimek_obrazovky_2025-07-29_115613.jpg",
+    "ocr_text": "EvolvesfromCharmeloon PuzCharzardontheStageLcard\nSTAGE2 . 6\n5 Charllard\nN\n-0\nv L\ni j 2 j y\n4 . X\nJFlamePokemon.Length:577,Weight:200lbs.\nPokemonPower:EnergyBurnAsoftenasyou\nlikeduringyourturn(beforeyouratzack), gou mz, turn\nall Eneraemached toCharizardinto neaz orthe\nrestoftheturn.This gwer cantbeusedifCharizard\nisAsleep,Confused,orParalyzed.\n6 FireSpinDiscard2Energycardsattached\ng 4 E to Chargnrd inorderto usze,chis attack. I 00\nweakness resistance retreatcost\n0 0-30 x\nSpitsfirethatishot.enough",
+    "ai_features": "{\"image_quality\": {\"score\": \"Low contrast\", \"brightness\": 0.5758332014083862, \"contrast\": 0.2749272286891937}, \"color_distribution\": {\"red_intensity\": 0, \"green_intensity\": 0, \"blue_intensity\": 0, \"color_balance\": \"Unknown\"}, \"edge_sharpness\": {\"score\": \"Unknown\", \"edge_strength\": 0}, \"text_regions\": {\"detected_regions\": 0, \"text_likelihood\": \"Unknown\"}, \"quality_indicators\": {\"print_quality\": 1.0, \"edge_sharpness\": 1.0, \"color_consistency\": 0.2641880512237549, \"text_clarity\": 1.0, \"composition\": 0.9185354785762763}, \"authenticity_factors\": {\"print_quality\": 1.0, \"edge_sharpness\": 1.0, \"color_consistency\": 0.2641880512237549, \"text_clarity\": 1.0, \"composition\": 0.9185354785762763}, \"model_type\": \"fallback\"}",
+    "status": "pending_review"
+  }
+]
